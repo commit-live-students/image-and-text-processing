@@ -41,6 +41,7 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
+* [Image and Text Processing](https://github.com/commit-live-students/image-and-text-processing/blob/master/notebooks/image_and_text_processing.ipynb)
 
 
 ## Assignments 
